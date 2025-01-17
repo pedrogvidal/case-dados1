@@ -17,5 +17,7 @@ samples = np.array([
     [62, 65]   # Sample 2: Produto A, Produto B
 ])
 
+16/01
+will update the rest of this numpy in this week, just need some time
 
 
