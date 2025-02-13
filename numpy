@@ -22,3 +22,6 @@ will update the rest of this numpy in this week, just need some time
 
 KAKSDKSDK
 
+cara
+eu só queria saber
+como usa github
