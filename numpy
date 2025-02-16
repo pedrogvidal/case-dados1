@@ -34,3 +34,8 @@ def get_valid_word(words):
         word = random.choice(words)
 file222
 public commit
+
+git add .
+git commit -m "primeiro commit"
+git status
+
