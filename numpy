@@ -39,3 +39,8 @@ git add .
 git commit -m "primeiro commit"
 git status
 
+https://www.reddit.com/r/brdev/comments/1j0eao8/n%C3%A3o_consegue_emprego_tenho_a_solu%C3%A7%C3%A3o/
+kkkkkkk
+inacreditável
+
+
