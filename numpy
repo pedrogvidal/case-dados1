@@ -43,4 +43,4 @@ https://www.reddit.com/r/brdev/comments/1j0eao8/n%C3%A3o_consegue_emprego_tenho_
 kkkkkkk
 inacreditável
 
-
+ quebre um pipeline, dispare alguns alertas do Snyk, deixe umas dependências npm antigas por lá e ative o Dependabot.
